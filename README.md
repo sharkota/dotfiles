@@ -12,7 +12,7 @@ This only contains the files important to the look of the rice, and does not inc
 ## Install
 Install the packages
 ```sh
-sudo pacman -S neofetch kitty dolphin wal waybar wlogout wofi hyprland hyprlock pavucontrol noto-fonts nerd-fonts
+sudo pacman -S neofetch kitty dolphin wal waybar wlogout wofi hyprland hyprlock hyprshot pavucontrol noto-fonts nerd-fonts
 ```
 Move .config folders to your ~/.config folder
 

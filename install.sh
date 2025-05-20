@@ -1,7 +1,9 @@
 #!/bin/bash
-echo "────────────────────────────────────────"
+echo "───────────────────────────────────────────────────────"
 echo "Choose setup, README.md for more info"
-echo "────────────────────────────────────────"
+echo "───────────────────────────────────────────────────────"
+echo "Please make backups of your .config, mainly hyprland"
+echo "───────────────────────────────────────────────────────"
 
 options=("minimal" "desktop" "addons" "quit")
 select opt in "${options[@]}"; do

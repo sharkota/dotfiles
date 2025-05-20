@@ -2,7 +2,7 @@
 echo "────────────────────────────────────────"
 echo "Installing packages..."
 echo "────────────────────────────────────────"
-sudo pacman --noconfirm -S ttf-cascadia-code-nerd python-pywal
+sudo pacman --noconfirm -S ttf-cascadia-code-nerd python-pywal rsync
 #sudo pacman --noconfirm -S --needed git base-devel
 if ! command -v yay &> /dev/null; then
     git clone https://aur.archlinux.org/yay.git

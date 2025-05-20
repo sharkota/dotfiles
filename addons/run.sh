@@ -1,6 +1,6 @@
 #!/bin/bash
 echo "────────────────────────────────────────"
-echo "Addons requires Discord and Zen!"
+echo "Addons requires Discord! Will install Vencord."
 echo "────────────────────────────────────────"
 read -p "Do you want to continue? [Y/n] " answer
 case "$answer" in

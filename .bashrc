@@ -30,3 +30,17 @@ krice() {
         return 1
     fi
 }
+
+# Optional profile function
+krice-profile() {
+  set -a
+  # Sources config from inside profile folder
+  source $KRICE_PATH/profiles/$1/config
+  # Config should look like this:
+  #bg="name_here.png"
+  #pfp="name_here.png"
+  set +a
+  # Exports as variables and sets them with krice
+  krice bg $KRICE_PATH/profiles/$1/$bg
+  krice pfp $KRICE_PATH/profiles/$1/$pfp
+}

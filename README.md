@@ -2,10 +2,10 @@
 > [!NOTE]
 > Backup your dotfiles.
 ## Preview
-![Preview Image](https://raw.githubusercontent.com/sharkota/dotfiles/refs/heads/main/public/preview/1.png)
-![Preview Image](https://raw.githubusercontent.com/sharkota/dotfiles/refs/heads/main/public/preview/2.png)
-![Preview Image](https://raw.githubusercontent.com/sharkota/dotfiles/refs/heads/main/public/preview/3.png)
-![Preview Image](https://raw.githubusercontent.com/sharkota/dotfiles/refs/heads/main/public/preview/4.png)
+![Preview Image](https://raw.githubusercontent.com/sharkota/dotfiles/refs/heads/main/preview/1.png)
+![Preview Image](https://raw.githubusercontent.com/sharkota/dotfiles/refs/heads/main/preview/2.png)
+![Preview Image](https://raw.githubusercontent.com/sharkota/dotfiles/refs/heads/main/preview/3.png)
+![Preview Image](https://raw.githubusercontent.com/sharkota/dotfiles/refs/heads/main/preview/4.png)
 ## Requirements
 Working Arch Install
 Two brain cells

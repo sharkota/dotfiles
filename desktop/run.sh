@@ -14,4 +14,5 @@ wal -i ~/.config/krice/wal.png
 echo "────────────────────────────────────────"
 echo "Desktop installed!"
 echo "────────────────────────────────────────"
-echo "Copy the functions from the git's .bashrc to yours for the krice-set function."
+echo "Copy the functions from the git's .bashrc to yours for the krice-set function.
+It is done this way so that you will only add the source once."

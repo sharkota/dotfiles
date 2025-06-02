@@ -19,7 +19,7 @@
 }
 
 *{
-	font-family: 'comfortaa';
+	font-family: 'comfortaa' !important;
 	color: var(--acc-glass);
 }
 
